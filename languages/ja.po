@@ -102,6 +102,31 @@ msgstr "新しいコメント &rarr;"
 msgid "Comments are closed."
 msgstr "コメントは受け付けていません。"
 
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "何も見つかりませんでした"
+
+#: content-none.php:19
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"最初の投稿を公開する準備ができましたか ?<a href=\"%1$s\">こちらからスタートし"
+"ましょう</a>。"
+
+#: content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"検索キーワードに一致するコンテンツが見つかりませんでした。他のキーワードをお"
+"試しください。"
+
+#: content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "お探しのコンテンツが見つかりません。検索をお試しください。"
+
 #: content-page.php:18 content-single.php:20 content.php:27 image.php:58
 msgid "Pages:"
 msgstr "ページ:"
@@ -128,9 +153,11 @@ msgstr "<a href=\"%3$s\" rel=\"bookmark\">パーマリンク</a>"
 
 #: content-single.php:45
 msgid ""
-"This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" rel=\"bookmark\">permalink</a>."
+"This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" "
+"rel=\"bookmark\">permalink</a>."
 msgstr ""
-"カテゴリー: %1$s. タグ: %2$s. <a href=\"%3$s\" rel=\"bookmark\">パーマリンク</a>."
+"カテゴリー: %1$s. タグ: %2$s. <a href=\"%3$s\" rel=\"bookmark\">パーマリンク"
+"</a>."
 
 #: content-single.php:47
 msgid ""
@@ -193,8 +220,8 @@ msgid ""
 "href=\"%6$s\" rel=\"gallery\">%7$s</a>"
 msgstr ""
 "投稿日時: <span class=\"entry-date\"><time class=\"entry-date\" datetime="
-"\"%1$s\">%2$s</time></span> (<a href=\"%3$s\">%4$s &times; %5$s</a>) ギャラリー名: <a href=\"%6$s\" rel=\"gallery\">"
-"%7$s</a>"
+"\"%1$s\">%2$s</time></span> (<a href=\"%3$s\">%4$s &times; %5$s</a>) ギャラ"
+"リー名: <a href=\"%6$s\" rel=\"gallery\">%7$s</a>"
 
 #: image.php:37
 msgid "<span class=\"meta-nav\">&larr;</span> Previous"
@@ -254,31 +281,6 @@ msgid ""
 msgstr ""
 "<span class=\"posted-on\">投稿日時: %1$s</span><span class=\"byline\"> 投稿"
 "者: %2$s</span>"
-
-#: no-results.php:13
-msgid "Nothing Found"
-msgstr "何も見つかりませんでした"
-
-#: no-results.php:19
-msgid ""
-"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
-msgstr ""
-"最初の投稿を公開する準備ができましたか ?<a href=\"%1$s\">こちらからスタートし"
-"ましょう</a>。"
-
-#: no-results.php:23
-msgid ""
-"Sorry, but nothing matched your search terms. Please try again with some "
-"different keywords."
-msgstr ""
-"検索キーワードに一致するコンテンツが見つかりませんでした。他のキーワードをお"
-"試しください。"
-
-#: no-results.php:28
-msgid ""
-"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
-"searching can help."
-msgstr "お探しのコンテンツが見つかりません。検索をお試しください。"
 
 #: search.php:16
 msgid "Search Results for: %s"

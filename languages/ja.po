@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: _s 1.0-wpcom\n"
 "Report-Msgid-Bugs-To: http://wordpress.org/tags/_s\n"
-"POT-Creation-Date: 2013-12-19 08:53:16+00:00\n"
+"POT-Creation-Date: 2013-12-24 03:28:28+00:00\n"
 "PO-Revision-Date: 2013-04-08 16:45+0900\n"
 "Last-Translator: Kazue Igarashi <gatesapce.k@gmail.com>\n"
 "Language-Team: \n"
@@ -34,69 +34,69 @@ msgstr "よく使われているカテゴリー"
 msgid "Try looking in the monthly archives. %1$s"
 msgstr "月別アーカイブを見てみてください。%1$s"
 
-#: archive.php:31
+#: archive.php:27
 msgid "Author: %s"
-msgstr "投稿者アーカイブ:  %s"
+msgstr "投稿者アーカイブ: %s"
 
-#: archive.php:39
+#: archive.php:30
 msgid "Day: %s"
 msgstr "%sのアーカイブ"
 
-#: archive.php:42
+#: archive.php:33
 msgid "Month: %s"
 msgstr "%sのアーカイブ"
 
-#: archive.php:42
+#: archive.php:33
 msgctxt "monthly archives date format"
 msgid "F Y"
 msgstr "Y年F"
 
-#: archive.php:45
+#: archive.php:36
 msgid "Year: %s"
 msgstr "%s年のアーカイブ"
 
-#: archive.php:45
+#: archive.php:36
 msgctxt "yearly archives date format"
 msgid "Y"
 msgstr "Y"
 
-#: archive.php:48
+#: archive.php:39
 msgid "Asides"
 msgstr "アサイド"
 
-#: archive.php:51
+#: archive.php:42
 msgid "Galleries"
 msgstr "ギャラリー"
 
-#: archive.php:54
+#: archive.php:45
 msgid "Images"
 msgstr "画像"
 
-#: archive.php:57
+#: archive.php:48
 msgid "Videos"
 msgstr "動画"
 
-#: archive.php:60
+#: archive.php:51
 msgid "Quotes"
 msgstr "引用"
 
-#: archive.php:63
+#: archive.php:54
 msgid "Links"
 msgstr "リンク"
 
-#: archive.php:66
+#: archive.php:57
 msgid "Statuses"
 msgstr "ステータス"
 
-#: archive.php:69
+#: archive.php:60
 msgid "Audios"
 msgstr "オーディオ"
 
-#: archive.php:72
+#: archive.php:63
 msgid "Chats"
 msgstr "チャット"
 
-#: archive.php:75 sidebar.php:17
+#: archive.php:66 sidebar.php:17
 msgid "Archives"
 msgstr "アーカイブ"
 

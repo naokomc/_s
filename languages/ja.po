@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: _s 1.0-wpcom\n"
 "Report-Msgid-Bugs-To: http://wordpress.org/tags/_s\n"
-"POT-Creation-Date: 2014-02-07 07:21:44+00:00\n"
+"POT-Creation-Date: 2014-02-10 06:06:03+00:00\n"
 "PO-Revision-Date: 2013-04-08 16:45+0900\n"
 "Last-Translator: Kazue Igarashi <gatesapce.k@gmail.com>\n"
 "Language-Team: \n"
@@ -100,26 +100,26 @@ msgstr "チャット"
 msgid "Archives"
 msgstr "アーカイブ"
 
-#: comments.php:30
+#: comments.php:28
 msgctxt "comments title"
 msgid "One thought on &ldquo;%2$s&rdquo;"
 msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
 msgstr[0] "「%2$s」への%1$s件のフィードバック"
 msgstr[1] "「%2$s」への%1$s件のフィードバック"
 
-#: comments.php:37 comments.php:54
+#: comments.php:35 comments.php:52
 msgid "Comment navigation"
 msgstr "コメントナビゲーション"
 
-#: comments.php:38 comments.php:55
+#: comments.php:36 comments.php:53
 msgid "&larr; Older Comments"
 msgstr "&larr; 以前のコメント"
 
-#: comments.php:39 comments.php:56
+#: comments.php:37 comments.php:54
 msgid "Newer Comments &rarr;"
 msgstr "新しいコメント &rarr;"
 
-#: comments.php:66
+#: comments.php:64
 msgid "Comments are closed."
 msgstr "コメントは受け付けていません。"
 

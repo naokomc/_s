@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: _s 1.0-wpcom\n"
 "Report-Msgid-Bugs-To: http://wordpress.org/tags/_s\n"
-"POT-Creation-Date: 2014-02-10 06:06:03+00:00\n"
+"POT-Creation-Date: 2014-02-12 02:52:07+00:00\n"
 "PO-Revision-Date: 2013-04-08 16:45+0900\n"
 "Last-Translator: Kazue Igarashi <gatesapce.k@gmail.com>\n"
 "Language-Team: \n"
@@ -96,7 +96,7 @@ msgstr "オーディオ"
 msgid "Chats"
 msgstr "チャット"
 
-#: archive.php:66 sidebar.php:17
+#: archive.php:66 sidebar.php:16
 msgid "Archives"
 msgstr "アーカイブ"
 
@@ -209,11 +209,11 @@ msgstr "1件のコメント"
 msgid "% Comments"
 msgstr "%件のコメント"
 
-#: footer.php:16
+#: footer.php:15
 msgid "Proudly powered by %s"
 msgstr "Proudly powered by %s"
 
-#: footer.php:18
+#: footer.php:17
 msgid "Theme: %1$s by %2$s."
 msgstr "テーマ: %1$s by %2$s."
 
@@ -275,7 +275,7 @@ msgstr ""
 msgid "Search Results for: %s"
 msgstr "検索結果: %s"
 
-#: sidebar.php:24
+#: sidebar.php:23
 msgid "Meta"
 msgstr "メタ"
 

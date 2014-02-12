@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: _s 1.0-wpcom\n"
 "Report-Msgid-Bugs-To: http://wordpress.org/tags/_s\n"
-"POT-Creation-Date: 2014-02-10 06:06:03+00:00\n"
+"POT-Creation-Date: 2014-02-12 02:52:07+00:00\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -93,7 +93,7 @@ msgstr ""
 msgid "Chats"
 msgstr ""
 
-#: archive.php:66 sidebar.php:17
+#: archive.php:66 sidebar.php:16
 msgid "Archives"
 msgstr ""
 
@@ -200,11 +200,11 @@ msgstr ""
 msgid "% Comments"
 msgstr ""
 
-#: footer.php:16
+#: footer.php:15
 msgid "Proudly powered by %s"
 msgstr ""
 
-#: footer.php:18
+#: footer.php:17
 msgid "Theme: %1$s by %2$s."
 msgstr ""
 
@@ -264,7 +264,7 @@ msgstr ""
 msgid "Search Results for: %s"
 msgstr ""
 
-#: sidebar.php:24
+#: sidebar.php:23
 msgid "Meta"
 msgstr ""
 

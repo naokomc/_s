@@ -26,17 +26,17 @@ _s（アンダースコアーズ）
 
 1. テキストドメインから `'_s'` (シングルクォーテーションを含む) を検索、オリジナルの名前に置換。
 2. 全ての関数（function）名から `_s_` を検索、オリジナルの名前に置換。
-3. コメントブロックから <code>&nbsp;_s</code> (先頭に半角スペースを含む) を検索、オリジナルの名前に置換。
-4. 接頭辞から `_s-` を検索、オリジナルの名前に置換。
-5. style.css内の `Text Domain: _s` を検索、オリジナルの名前に置換。
+3. style.css内の `Text Domain: _s` を検索、オリジナルの名前に置換。
+5. コメントブロックから <code>&nbsp;_s</code> (先頭に半角スペースを含む) を検索、オリジナルの名前に置換。
+5. 接頭辞から `_s-` を検索、オリジナルの名前に置換。
 
 あるいは
 
 * `'_s'` を `'megatherium'` に置換
 * `_s_` を `megatherium_` に置換
+* style.css内の `Text Domain: _s` を `Text Domain: megatherium` に置換
 * <code>&nbsp;_s</code> を <code>&nbsp;Megatherium</code> に置換
 * `_s-` を `megatherium-` に置換
-* style.css内の `Text Domain: _s` を `Text Domain: megatherium` に置換
 
 その後、style.css のスタイルシート・ヘッダーの情報（テーマ名や作者名など）と、footer.php内のリンクをあなたの情報に変更します。次に、この Readme を書き換えるか削除します。
 

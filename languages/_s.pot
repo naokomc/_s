@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: _s 1.0-wpcom\n"
 "Report-Msgid-Bugs-To: http://wordpress.org/tags/_s\n"
-"POT-Creation-Date: 2014-02-12 02:52:07+00:00\n"
+"POT-Creation-Date: 2014-02-26 01:30:23+00:00\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -198,6 +198,10 @@ msgstr ""
 
 #: content.php:58
 msgid "% Comments"
+msgstr ""
+
+#: footer.php:15
+msgid "http://wordpress.org/"
 msgstr ""
 
 #: footer.php:15

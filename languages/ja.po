@@ -1,10 +1,10 @@
-# Copyright (C) 2013 Automattic
+# Copyright (C) 2014 Automattic
 # This file is distributed under the GNU General Public License v2 or later.
 msgid ""
 msgstr ""
 "Project-Id-Version: _s 1.0-wpcom\n"
 "Report-Msgid-Bugs-To: http://wordpress.org/tags/_s\n"
-"POT-Creation-Date: 2014-02-12 02:52:07+00:00\n"
+"POT-Creation-Date: 2014-02-26 01:30:23+00:00\n"
 "PO-Revision-Date: 2013-04-08 16:45+0900\n"
 "Last-Translator: Kazue Igarashi <gatesapce.k@gmail.com>\n"
 "Language-Team: \n"
@@ -208,6 +208,10 @@ msgstr "1件のコメント"
 #: content.php:58
 msgid "% Comments"
 msgstr "%件のコメント"
+
+#: footer.php:15
+msgid "http://wordpress.org/"
+msgstr ""
 
 #: footer.php:15
 msgid "Proudly powered by %s"

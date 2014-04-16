@@ -17,3 +17,6 @@
 `_s` をベースに新しいテーマを生成する好ましい方法は、[Underscores.me](http://underscores.me)ウェブサイトです。もしシェルスクリプトなどを使った代替の方法をもっているなら、それについてブログ記事を書くか別のリポジトリにホストして、[@underscoresme](https://twitter.com/underscoresme) へのメンションを添えてツイートしてください！
 
 あなたのアバターが [ここ](http://underscores.me/#contribute) の貢献者リストに掲載されたいですか？あなたのメールアドレスをGitHubとローカルのGit両方に設定してください。
+
+## 翻訳協力
+- [@tekapo](http://wp.tekapo.com/)

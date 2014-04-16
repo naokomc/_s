@@ -9,7 +9,7 @@
 * `_s` はWordPressの最新安定版と前2バージョンとの下位互換性があります。
 * `_s` はHTML5のマークアップを使用しています。HTML5には、複数の `<h1>` 要素を使用するのが一般的です。
 
-`_s` に寄与されたコードは、[GNU General Public License v2 (or later)](http://www.gnu.org/licenses/gpl-2.0.html) のもとでの仕様を許可されます。
+`_s` に寄与されたコードは、[GNU General Public License v2 (or later)](http://www.gnu.org/licenses/gpl-2.0.html) のもとでの使用を許可されます。
 
 ## Underscores.me
 あなたの Issue がウェブサイト [Underscores.me](http://underscores.me) 固有のものであれば、[Underscores.me GitHub repo](https://github.com/Automattic/underscores.me) が適切な場所です。

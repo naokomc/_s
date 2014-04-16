@@ -14,6 +14,6 @@
 ## Underscores.me
 あなたの Issue がウェブサイト [Underscores.me](http://underscores.me) 固有のものであれば、[Underscores.me GitHub repo](https://github.com/Automattic/underscores.me) が適切な場所です。
 
-`_s` をベースに新しいテーマを生成する好ましい方法は、[Underscores.me](http://underscores.me)ウェブサイトです。もしシェルスクリプトなどを使った代替の方法をもっているなら、それについてあるいはホスト毎に分けてブログ記事を書いて、[@underscoresme](https://twitter.com/underscoresme) へのメンションを添えてツイートしてください！
+`_s` をベースに新しいテーマを生成する好ましい方法は、[Underscores.me](http://underscores.me)ウェブサイトです。もしシェルスクリプトなどを使った代替の方法をもっているなら、それについてブログ記事を書くか別のリポジトリにホストして、[@underscoresme](https://twitter.com/underscoresme) へのメンションを添えてツイートしてください！
 
 あなたのアバターが [ここ](http://underscores.me/#contribute) の貢献者リストに掲載されたいですか？あなたのメールアドレスをGitHubとローカルのGit両方に設定してください。

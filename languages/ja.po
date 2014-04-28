@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: _s 1.0-wpcom\n"
 "Report-Msgid-Bugs-To: http://wordpress.org/tags/_s\n"
-"POT-Creation-Date: 2014-04-14 08:57:30+00:00\n"
+"POT-Creation-Date: 2014-04-28 01:32:28+00:00\n"
 "Last-Translator: Kazue Igarashi <gatesapce.k@gmail.com>\n"
 "Language-Team: \n"
 "Language: JAPANESE\n"
@@ -220,17 +220,13 @@ msgstr "Proudly powered by %s"
 msgid "Theme: %1$s by %2$s."
 msgstr "テーマ: %1$s by %2$s."
 
-#: functions.php:45
+#: functions.php:45 header.php:31
 msgid "Primary Menu"
 msgstr "メインメニュー"
 
-#: functions.php:75
+#: functions.php:76
 msgid "Sidebar"
 msgstr "サイドバー"
-
-#: header.php:31
-msgid "Menu"
-msgstr "メニュー"
 
 #: header.php:32
 msgid "Skip to content"

@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: _s 1.0-wpcom\n"
 "Report-Msgid-Bugs-To: http://wordpress.org/tags/_s\n"
-"POT-Creation-Date: 2014-05-19 03:32:59+00:00\n"
+"POT-Creation-Date: 2014-06-03 14:02:16+00:00\n"
 "Last-Translator: Kazue Igarashi <gatesapce.k@gmail.com>\n"
 "Language-Team: \n"
 "Language: JAPANESE\n"
@@ -224,7 +224,7 @@ msgstr "テーマ: %1$s by %2$s."
 msgid "Primary Menu"
 msgstr "メインメニュー"
 
-#: functions.php:76
+#: functions.php:80
 msgid "Sidebar"
 msgstr "サイドバー"
 
@@ -262,13 +262,15 @@ msgctxt "Next post link"
 msgid "%title <span class=\"meta-nav\">&rarr;</span>"
 msgstr "%title <span class=\"meta-nav\">&rarr;</span>"
 
-#: inc/template-tags.php:81
-msgid ""
-"<span class=\"posted-on\">Posted on %1$s</span><span class=\"byline\"> by "
-"%2$s</span>"
-msgstr ""
-"<span class=\"posted-on\">投稿日時: %1$s</span><span class=\"byline\"> 投稿"
-"者: %2$s</span>"
+#: inc/template-tags.php:82
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "投稿日時: %s"
+
+#: inc/template-tags.php:87
+msgctxt "post author"
+msgid "by %s"
+msgstr "投稿者: %s"
 
 #: search.php:16
 msgid "Search Results for: %s"

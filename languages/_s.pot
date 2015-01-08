@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: _s 1.0.0\n"
 "Report-Msgid-Bugs-To: http://wordpress.org/tags/_s\n"
-"POT-Creation-Date: 2015-01-06 02:24:02+00:00\n"
+"POT-Creation-Date: 2015-01-08 01:36:23+00:00\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -143,11 +143,7 @@ msgid "by %s"
 msgstr ""
 
 #. translators: used between list items, there is a space after the comma
-<<<<<<< HEAD
-#: inc/template-tags.php:104 inc/template-tags.php:110
-=======
 #: inc/template-tags.php:108 inc/template-tags.php:114
->>>>>>> upstream/master
 msgid ", "
 msgstr ""
 
@@ -210,110 +206,61 @@ msgctxt "daily archives date format"
 msgid "F j, Y"
 msgstr ""
 
-<<<<<<< HEAD
-#: inc/template-tags.php:152
-=======
-#: inc/template-tags.php:155
->>>>>>> upstream/master
+#: inc/template-tags.php:156
 msgctxt "post format archive title"
 msgid "Asides"
 msgstr ""
 
-<<<<<<< HEAD
-#: inc/template-tags.php:154
-=======
-#: inc/template-tags.php:157
->>>>>>> upstream/master
+#: inc/template-tags.php:158
 msgctxt "post format archive title"
 msgid "Galleries"
 msgstr ""
 
-<<<<<<< HEAD
-#: inc/template-tags.php:156
-=======
-#: inc/template-tags.php:159
->>>>>>> upstream/master
+#: inc/template-tags.php:160
 msgctxt "post format archive title"
 msgid "Images"
 msgstr ""
 
-<<<<<<< HEAD
-#: inc/template-tags.php:158
-=======
-#: inc/template-tags.php:161
->>>>>>> upstream/master
+#: inc/template-tags.php:162
 msgctxt "post format archive title"
 msgid "Videos"
 msgstr ""
 
-<<<<<<< HEAD
-#: inc/template-tags.php:160
-=======
-#: inc/template-tags.php:163
->>>>>>> upstream/master
+#: inc/template-tags.php:164
 msgctxt "post format archive title"
 msgid "Quotes"
 msgstr ""
 
-<<<<<<< HEAD
-#: inc/template-tags.php:162
-=======
-#: inc/template-tags.php:165
->>>>>>> upstream/master
+#: inc/template-tags.php:166
 msgctxt "post format archive title"
 msgid "Links"
 msgstr ""
 
-<<<<<<< HEAD
-#: inc/template-tags.php:164
-=======
-#: inc/template-tags.php:167
->>>>>>> upstream/master
+#: inc/template-tags.php:168
 msgctxt "post format archive title"
 msgid "Statuses"
 msgstr ""
 
-<<<<<<< HEAD
-#: inc/template-tags.php:166
-=======
-#: inc/template-tags.php:169
->>>>>>> upstream/master
+#: inc/template-tags.php:170
 msgctxt "post format archive title"
 msgid "Audio"
 msgstr ""
 
-<<<<<<< HEAD
-#: inc/template-tags.php:168
-=======
-#: inc/template-tags.php:171
->>>>>>> upstream/master
+#: inc/template-tags.php:172
 msgctxt "post format archive title"
 msgid "Chats"
 msgstr ""
 
-<<<<<<< HEAD
-#: inc/template-tags.php:171
-=======
-#: inc/template-tags.php:173
->>>>>>> upstream/master
+#: inc/template-tags.php:175
 msgid "Archives: %s"
 msgstr ""
 
 #. translators: 1: Taxonomy singular name, 2: Current taxonomy term
-<<<<<<< HEAD
-#: inc/template-tags.php:175
-msgid "%1$s: %2$s"
-msgstr ""
-
-#: inc/template-tags.php:177
-=======
-
-#: inc/template-tags.php:177
-msgid "%1$s: %2$s"
-msgstr ""
-
 #: inc/template-tags.php:179
->>>>>>> upstream/master
+msgid "%1$s: %2$s"
+msgstr ""
+
+#: inc/template-tags.php:181
 msgid "Archives"
 msgstr ""
 

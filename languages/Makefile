@@ -3,7 +3,7 @@ PACKAGE = _s
 # パッケージのタイプ。plugin または theme
 PROJECT = theme
 # 本家 (url) より入手してインストールしておいたもの
-MAKEPOT = $(HOME)/Sites/wordpress-i18n-tools/makepot.php
+MAKEPOT = $(HOME)/wordpress-i18n-tools/makepot.php
 
 
 PHP = /usr/bin/php

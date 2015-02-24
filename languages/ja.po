@@ -1,10 +1,10 @@
-# Copyright (C) 2014 Automattic
+# Copyright (C) 2015 Automattic
 # This file is distributed under the GNU General Public License v2 or later.
 msgid ""
 msgstr ""
 "Project-Id-Version: _s 1.0.0\n"
 "Report-Msgid-Bugs-To: http://wordpress.org/tags/_s\n"
-"POT-Creation-Date: 2015-01-08 01:36:23+00:00\n"
+"POT-Creation-Date: 2015-02-24 01:43:47+00:00\n"
 "Last-Translator: Kazue Igarashi <gatesapce.k@gmail.com>\n"
 "Language-Team: \n"
 "Language: JAPANESE\n"
@@ -40,19 +40,19 @@ msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
 msgstr[0] "「%2$s」への%1$s件のフィードバック"
 msgstr[1] "「%2$s」への%1$s件のフィードバック"
 
-#: comments.php:35 comments.php:52
+#: comments.php:35 comments.php:56
 msgid "Comment navigation"
 msgstr "コメントナビゲーション"
 
-#: comments.php:36 comments.php:53
-msgid "&larr; Older Comments"
-msgstr "&larr; 以前のコメント"
+#: comments.php:38 comments.php:59
+msgid "Older Comments"
+msgstr "以前のコメント"
 
-#: comments.php:37 comments.php:54
-msgid "Newer Comments &rarr;"
-msgstr "新しいコメント &rarr;"
+#: comments.php:39 comments.php:60
+msgid "Newer Comments"
+msgstr "新しいコメント"
 
-#: comments.php:64
+#: comments.php:72
 msgid "Comments are closed."
 msgstr "コメントは受け付けていません。"
 

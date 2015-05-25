@@ -5,13 +5,6 @@
  * @package _s
  */
 
-/**
- * Set the content width based on the theme's design and stylesheet.
- */
-if ( ! isset( $content_width ) ) {
-	$content_width = 640; /* pixels */
-}
-
 if ( ! function_exists( '_s_setup' ) ) :
 /**
  * Sets up theme defaults and registers support for various WordPress features.
@@ -50,7 +43,7 @@ function _s_setup() {
 
 	// This theme uses wp_nav_menu() in one location.
 	register_nav_menus( array(
-		'primary' => __( 'Primary Menu', '_s' ),
+		'primary' => esc_html__( 'Primary Menu', '_s' ),
 	) );
 
 	/*
@@ -79,13 +72,25 @@ endif; // _s_setup
 add_action( 'after_setup_theme', '_s_setup' );
 
 /**
+ * Set the content width in pixels, based on the theme's design and stylesheet.
+ *
+ * Priority 0 to make it available to lower priority callbacks.
+ *
+ * @global int $content_width
+ */
+function _s_content_width() {
+	$GLOBALS['content_width'] = apply_filters( '_s_content_width', 640 );
+}
+add_action( 'after_setup_theme', '_s_content_width', 0 );
+
+/**
  * Register widget area.
  *
  * @link http://codex.wordpress.org/Function_Reference/register_sidebar
  */
 function _s_widgets_init() {
 	register_sidebar( array(
-		'name'          => __( 'Sidebar', '_s' ),
+		'name'          => esc_html__( 'Sidebar', '_s' ),
 		'id'            => 'sidebar-1',
 		'description'   => '',
 		'before_widget' => '<aside id="%1$s" class="widget %2$s">',

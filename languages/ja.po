@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: _s 1.0.0\n"
 "Report-Msgid-Bugs-To: http://wordpress.org/tags/_s\n"
-"POT-Creation-Date: 2015-02-24 01:43:47+00:00\n"
+"POT-Creation-Date: 2015-05-25 03:35:43+00:00\n"
 "Last-Translator: Kazue Igarashi <gatesapce.k@gmail.com>\n"
 "Language-Team: \n"
 "Language: JAPANESE\n"
@@ -33,66 +33,28 @@ msgstr "よく使われているカテゴリー"
 msgid "Try looking in the monthly archives. %1$s"
 msgstr "月別アーカイブを見てみてください。%1$s"
 
-#: comments.php:28
+#: comments.php:29
 msgctxt "comments title"
 msgid "One thought on &ldquo;%2$s&rdquo;"
 msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
 msgstr[0] "「%2$s」への%1$s件のフィードバック"
 msgstr[1] "「%2$s」への%1$s件のフィードバック"
 
-#: comments.php:35 comments.php:56
+#: comments.php:38 comments.php:59
 msgid "Comment navigation"
 msgstr "コメントナビゲーション"
 
-#: comments.php:38 comments.php:59
+#: comments.php:41 comments.php:62
 msgid "Older Comments"
 msgstr "以前のコメント"
 
-#: comments.php:39 comments.php:60
+#: comments.php:42 comments.php:63
 msgid "Newer Comments"
 msgstr "新しいコメント"
 
-#: comments.php:72
+#: comments.php:75
 msgid "Comments are closed."
 msgstr "コメントは受け付けていません。"
-
-#: content-none.php:13
-msgid "Nothing Found"
-msgstr "何も見つかりませんでした"
-
-#: content-none.php:19
-msgid ""
-"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
-msgstr ""
-"最初の投稿を公開する準備ができましたか ?<a href=\"%1$s\">こちらからスタートし"
-"ましょう</a>。"
-
-#: content-none.php:23
-msgid ""
-"Sorry, but nothing matched your search terms. Please try again with some "
-"different keywords."
-msgstr ""
-"検索キーワードに一致するコンテンツが見つかりませんでした。他のキーワードをお"
-"試しください。"
-
-#: content-none.php:28
-msgid ""
-"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
-"searching can help."
-msgstr "お探しのコンテンツが見つかりません。検索をお試しください。"
-
-#: content-page.php:18 content-single.php:20 content.php:29
-msgid "Pages:"
-msgstr "ページ:"
-
-#: content-page.php:25 inc/template-tags.php:126
-msgid "Edit"
-msgstr "編集"
-
-#. translators: %s: Name of current post
-#: content.php:22
-msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
-msgstr "続きを読む %s <span class=\"meta-nav\">&rarr;</span>"
 
 #: footer.php:15
 msgid "http://wordpress.org/"
@@ -106,11 +68,11 @@ msgstr "Proudly powered by %s"
 msgid "Theme: %1$s by %2$s."
 msgstr "テーマ: %1$s by %2$s."
 
-#: functions.php:53 header.php:31
+#: functions.php:46 header.php:31
 msgid "Primary Menu"
 msgstr "メインメニュー"
 
-#: functions.php:88
+#: functions.php:93
 msgid "Sidebar"
 msgstr "サイドバー"
 
@@ -172,6 +134,10 @@ msgstr "1件のコメント"
 #: inc/template-tags.php:122
 msgid "% Comments"
 msgstr "%件のコメント"
+
+#: inc/template-tags.php:126 template-parts/content-page.php:25
+msgid "Edit"
+msgstr "編集"
 
 #: inc/template-tags.php:143
 msgid "Category: %s"
@@ -273,6 +239,41 @@ msgstr "アーカイブ"
 #: search.php:16
 msgid "Search Results for: %s"
 msgstr "検索結果: %s"
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr "何も見つかりませんでした"
+
+#: template-parts/content-none.php:19
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"最初の投稿を公開する準備ができましたか ?<a href=\"%1$s\">こちらからスタートし"
+"ましょう</a>。"
+
+#: template-parts/content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"検索キーワードに一致するコンテンツが見つかりませんでした。他のキーワードをお"
+"試しください。"
+
+#: template-parts/content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "お探しのコンテンツが見つかりません。検索をお試しください。"
+
+#: template-parts/content-page.php:18 template-parts/content-single.php:20
+#: template-parts/content.php:29
+msgid "Pages:"
+msgstr "ページ:"
+
+#. translators: %s: Name of current post
+#: template-parts/content.php:22
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "続きを読む %s <span class=\"meta-nav\">&rarr;</span>"
 
 #. Theme Name of the plugin/theme
 msgid "_s"

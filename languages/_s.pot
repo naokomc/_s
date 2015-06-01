@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: _s 1.0.0\n"
 "Report-Msgid-Bugs-To: http://wordpress.org/tags/_s\n"
-"POT-Creation-Date: 2015-05-25 03:35:43+00:00\n"
+"POT-Creation-Date: 2015-06-01 03:31:14+00:00\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -54,27 +54,27 @@ msgstr ""
 msgid "Comments are closed."
 msgstr ""
 
-#: footer.php:15
+#: footer.php:16
 msgid "http://wordpress.org/"
 msgstr ""
 
-#: footer.php:15
+#: footer.php:16
 msgid "Proudly powered by %s"
 msgstr ""
 
-#: footer.php:17
+#: footer.php:18
 msgid "Theme: %1$s by %2$s."
 msgstr ""
 
-#: functions.php:46 header.php:31
+#: functions.php:45 header.php:32
 msgid "Primary Menu"
 msgstr ""
 
-#: functions.php:93
+#: functions.php:100
 msgid "Sidebar"
 msgstr ""
 
-#: header.php:22
+#: header.php:23
 msgid "Skip to content"
 msgstr ""
 
@@ -133,7 +133,7 @@ msgstr ""
 msgid "% Comments"
 msgstr ""
 
-#: inc/template-tags.php:126 template-parts/content-page.php:25
+#: inc/template-tags.php:126 template-parts/content-page.php:26
 msgid "Edit"
 msgstr ""
 
@@ -238,34 +238,34 @@ msgstr ""
 msgid "Search Results for: %s"
 msgstr ""
 
-#: template-parts/content-none.php:13
+#: template-parts/content-none.php:14
 msgid "Nothing Found"
 msgstr ""
 
-#: template-parts/content-none.php:19
+#: template-parts/content-none.php:20
 msgid ""
 "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
 msgstr ""
 
-#: template-parts/content-none.php:23
+#: template-parts/content-none.php:24
 msgid ""
 "Sorry, but nothing matched your search terms. Please try again with some "
 "different keywords."
 msgstr ""
 
-#: template-parts/content-none.php:28
+#: template-parts/content-none.php:29
 msgid ""
 "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
 "searching can help."
 msgstr ""
 
-#: template-parts/content-page.php:18 template-parts/content-single.php:20
-#: template-parts/content.php:29
+#: template-parts/content-page.php:19 template-parts/content-single.php:23
+#: template-parts/content.php:32
 msgid "Pages:"
 msgstr ""
 
 #. translators: %s: Name of current post
-#: template-parts/content.php:22
+#: template-parts/content.php:25
 msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
 msgstr ""
 

@@ -5,7 +5,7 @@
 
 あなたが素晴らしいレポートを書くために考慮すべきいくつかのヒントを紹介します。
 
-* `_s` はInternet Explorer9以降だけでなく、他のすべての主要なブラウザの最新2バージョンをサポートしています。
+* `_s` はMicrosoft Internet Explorer11とEdgeだけでなく、他のすべての主要なブラウザの最新2バージョンをサポートしています。
 * `_s` はWordPressの最新安定版と前2バージョンとの下位互換性があります。
 * `_s` はHTML5のマークアップを使用しています。HTML5には、複数の `<h1>` 要素を使用するのが一般的です。
 * We decided to not include translations [[#50](https://github.com/Automattic/_s/pull/50)] beyond the exisiting `_s.pot` file, a RTL stylesheet [[#263](https://github.com/Automattic/_s/pull/263)], or editor styles [[#225](https://github.com/Automattic/_s/pull/225)], as they are likely to change during development of an `_s`-based theme.

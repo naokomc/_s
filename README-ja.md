@@ -9,7 +9,7 @@ _s（アンダースコアーズ）
 
 * 余分なものがなく、豊富なコメント、モダン、HTML5テンプレート。
 * 404テンプレートのサポート。
-* `inc/custom-header.php` でサンプルのカスタムヘッダーを実装。これは `functions.php` の1行のコメントを解除することで有効化し、`inc/custom-header.php` のコメント部分に書かれているコードスニペットを `header.php` テンプレートに追加することで利用できます。
+* `inc/custom-header.php` でカスタムヘッダーを実装。これは `inc/custom-header.php` のコメント部分に書かれているコードスニペットを `header.php` テンプレートに追加するだけです。
 * `inc/template-tags.php` のカスタムテンプレートタグはあなたのテンプレートをクリーンできちんとし、重複したコードを防ぎます。
 * `inc/extras.php` の小さな調整はテーマの振る舞いを改善します。
 * `js/navigation.js` はメニューを小さい画面（スマートフォンなど）においてCSSで用意したドロップダウンの切り替えをするスクリプトです。`functions.php` で読み込んでいます。
@@ -32,7 +32,7 @@ _s（アンダースコアーズ）
 作りたいテーマの名前を入力し、 "Generate" をクリックすると、あなた用のスターターテーマを取得できます。
 
 マニュアルで作りたいなら、GitHubから `_s` をダウンロードしてください。
-最初に `_s` ディレクトリーをコピーし、オリジナルの名前（例えば `megatherium` ）に変更してください。
+最初に `_s` ディレクトリーをコピーし、オリジナルの名前（例えば `megatherium-is-awesome` ）に変更してください。
 次に必ず5ステップの順番でテンプレートファイル内のテキストの検索と置換を行ってください。
 
 1. テキストドメインから `'_s'` (シングルクォーテーションを含む) を検索、オリジナルの名前に置換。
@@ -43,13 +43,13 @@ _s（アンダースコアーズ）
 
 あるいは
 
-* `'_s'` を `'megatherium'` に置換
-* `_s_` を `megatherium_` に置換
-* style.css内の `Text Domain: _s` を `Text Domain: megatherium` に置換
-* <code>&nbsp;_s</code> を <code>&nbsp;Megatherium</code> に置換
-* `_s-` を `megatherium-` に置換
+* `'_s'` を `'megatherium-is-awesome'` に置換
+* `_s_` を `megatherium_is_awesome_` に置換
+* style.css内の `Text Domain: _s` を `Text Domain: megatherium-is-awesome` に置換
+* <code>&nbsp;_s</code> を <code>&nbsp;Megatherium_is_Awesome</code> に置換
+* `_s-` を `megatherium-is-awesome-` に置換
 
-その後、style.css のスタイルシート・ヘッダーの情報（テーマ名や作者名など）と、footer.php内のリンクをあなたの情報に変更します。次に、この Readme を書き換えるか削除します。
+その後、`style.css` のスタイルシート・ヘッダーの情報（テーマ名や作者名など）と、`footer.php` 内のリンクをあなたの情報に変更します。次に、この Readme を書き換えるか削除します。
 
 これで準備は整いました。
 次のステップは、言うことは簡単ですが、やるのが難しい「素晴らしいWordPressのテーマを作る。」です :)

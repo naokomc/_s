@@ -6,9 +6,9 @@ PROJECT = theme
 MAKEPOT = $(HOME)/wordpress-i18n-tools/makepot.php
 
 
-PHP = /usr/bin/php
-MSGMERGE = /usr/local/bin/msgmerge
-MSGFMT = /usr/local/bin/msgfmt
+PHP = /usr/local/bin/php
+MSGMERGE = /usr/local/opt/gettext/bin/msgmerge
+MSGFMT = /usr/local/opt/gettext/bin/msgfmt
 
 srcdir = ..
 langdir = .

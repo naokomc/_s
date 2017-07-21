@@ -43,11 +43,11 @@ _s（アンダースコアーズ）
 
 あるいは
 
-* `'_s'` を `'megatherium-is-awesome'` に置換
-* `_s_` を `megatherium_is_awesome_` に置換
-* style.css内の `Text Domain: _s` を `Text Domain: megatherium-is-awesome` に置換
-* <code>&nbsp;_s</code> を <code>&nbsp;Megatherium_is_Awesome</code> に置換
-* `_s-` を `megatherium-is-awesome-` に置換
+1. `'_s'` を `'megatherium-is-awesome'` に置換
+2. `_s_` を `megatherium_is_awesome_` に置換
+3. style.css内の `Text Domain: _s` を `Text Domain: megatherium-is-awesome` に置換
+4. <code>&nbsp;_s</code> を <code>&nbsp;Megatherium_is_Awesome</code> に置換
+5. `_s-` を `megatherium-is-awesome-` に置換
 
 その後、`style.css` のスタイルシート・ヘッダーの情報（テーマ名や作者名など）と、`footer.php` 内のリンクをあなたの情報に変更します。次に、この Readme を書き換えるか削除します。
 

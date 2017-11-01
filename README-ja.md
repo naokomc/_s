@@ -20,7 +20,7 @@ _s（アンダースコアーズ）
 オリジナルと異なる点
 ---------------
 
-オリジナルは http://underscores.me/ にあります。
+オリジナルは https://underscores.me/ にあります。
 詳しい説明は https://github.com/Automattic/_s をご覧ください。
 
 * 日本語翻訳ファイル付き
@@ -28,7 +28,7 @@ _s（アンダースコアーズ）
 始め方
 ---------------
 
-簡単に始めるなら、http://underscores.me のジェネレーターで `_s` ベースのテーマを作ることができます。
+簡単に始めるなら、https://underscores.me のジェネレーターで `_s` ベースのテーマを作ることができます。
 作りたいテーマの名前を入力し、 "Generate" をクリックすると、あなた用のスターターテーマを取得できます。
 
 マニュアルで作りたいなら、GitHubから `_s` をダウンロードしてください。
@@ -37,7 +37,7 @@ _s（アンダースコアーズ）
 
 1. テキストドメインから `'_s'` (シングルクォーテーションを含む) を検索、オリジナルの名前に置換。
 2. 全ての関数（function）名から `_s_` を検索、オリジナルの名前に置換。
-3. style.css内の `Text Domain: _s` を検索、オリジナルの名前に置換。
+3. `style.css` 内の `Text Domain: _s` を検索、オリジナルの名前に置換。
 4. コメントブロックから <code>&nbsp;_s</code> (先頭に半角スペースを含む) を検索、オリジナルの名前に置換。
 5. 接頭辞から `_s-` を検索、オリジナルの名前に置換。
 
@@ -45,11 +45,11 @@ _s（アンダースコアーズ）
 
 1. `'_s'` を `'megatherium-is-awesome'` に置換
 2. `_s_` を `megatherium_is_awesome_` に置換
-3. style.css内の `Text Domain: _s` を `Text Domain: megatherium-is-awesome` に置換
+3. `style.css` 内の `Text Domain: _s` を `Text Domain: megatherium-is-awesome` に置換
 4. <code>&nbsp;_s</code> を <code>&nbsp;Megatherium_is_Awesome</code> に置換
 5. `_s-` を `megatherium-is-awesome-` に置換
 
-その後、`style.css` のスタイルシート・ヘッダーの情報（テーマ名や作者名など）と、`footer.php` 内のリンクをあなたの情報に変更します。次に、この Readme を書き換えるか削除します。
+その後、`style.css` のスタイルシート・ヘッダーの情報（テーマ名や作者名など）と、`footer.php` 内のリンクをあなたの情報に変更し、`languages` フォルダー内の `_s.pot` のファイル名をテーマのスラッグ書き換えます。次に、この Readme を書き換えるか削除します。
 
 これで準備は整いました。
 次のステップは、言うことは簡単ですが、やるのが難しい「素晴らしいWordPressのテーマを作る。」です :)

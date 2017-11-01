@@ -21,11 +21,11 @@
 `_s` に寄与されたコードは、[GNU General Public License v2 (or later)](http://www.gnu.org/licenses/gpl-2.0.html) (LICENSE) のもとでの使用を許可されます。
 
 ## Underscores.me
-あなたの Issue がウェブサイト [Underscores.me](http://underscores.me) 固有のものであれば、[Underscores.me GitHub repo](https://github.com/Automattic/underscores.me) が適切な場所です。
+あなたの Issue がウェブサイト [Underscores.me](https://underscores.me) 固有のものであれば、[Underscores.me GitHub repo](https://github.com/Automattic/underscores.me) が適切な場所です。
 
-`_s` をベースに新しいテーマを生成する好ましい方法は、[Underscores.me](http://underscores.me) ウェブサイトです。もしシェルスクリプトなどを使った代替の方法をもっているなら、それについてブログ記事を書くか別のリポジトリにホストして、[@underscoresme](https://twitter.com/underscoresme) へのメンションを添えてツイートしてください！
+`_s` をベースに新しいテーマを生成する好ましい方法は、[Underscores.me](https://underscores.me) ウェブサイトです。もしシェルスクリプトなどを使った代替の方法をもっているなら、それについてブログ記事を書くか別のリポジトリにホストして、[@underscoresme](https://twitter.com/underscoresme) へのメンションを添えてツイートしてください！
 
-あなたのアバターが [ここ](http://underscores.me/#contribute) の貢献者リストに掲載されたいですか？あなたのメールアドレスをGitHubとローカルのGit両方に設定してください。
+あなたのアバターが [ここ](https://underscores.me/#contribute) の貢献者リストに掲載されたいですか？あなたのメールアドレスをGitHubとローカルのGit両方に設定してください。
 
 ## 翻訳協力
 - [@tekapo](http://wp.tekapo.com/)
